@@ -70,6 +70,12 @@ h3 {
 .list {
  column-count: 2;   
 }
+.profile {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #dedbdb;
+    padding-top: 20px;
+}
 .background {
     background-image: url(../image/page-bg.png)
 }
